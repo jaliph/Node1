@@ -1,0 +1,22 @@
+{
+  "name": "node1",
+  "version": "0.0.1",
+  "description": "This is level 1 backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaliph/Node1.git"
+  },
+  "keywords": [
+    "Node1"
+  ],
+  "author": "Akash Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaliph/Node1/issues"
+  },
+  "homepage": "https://github.com/jaliph/Node1#readme"
+}
