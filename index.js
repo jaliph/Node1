@@ -1,5 +1,4 @@
 var http = require("http");
-/*from   www .j  a  v  a2  s.  com*/
 function process_request(req, res) {
      var body = 'Thanks for calling!\n';
      var content_length =  body.length ;
